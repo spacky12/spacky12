@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Neeraj Sharma</h1>
 <h3 align="center">A passionate learner from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.mywebworld.in/wp-content/uploads/2018/05/web-design-kerala.gif">
 
 
 
