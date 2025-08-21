@@ -4,7 +4,7 @@
 
 
 
-- 🔭 I’m currently working on **Core Java**
+- 🔭 I’m currently working on **Java Full Stack**
 
 - 🌱 I’m currently learning **DSA**
 
@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking for help with **C++ Bootcamp**
 
-- 💬 Ask me about **C, C++**
+- 💬 Ask me about **C, C++ , Java**
 
 - 📫 How to reach me **spacky12@gmail.com**
 
